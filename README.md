@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye0n0&layout=compact)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hye0n0.github.io/)](https://hye0n0.github.io/)
+![Static Badge](https://img.shields.io/badge/blog-https%3A%2F%2Fhye0n0.github.io%2F-2F5794?style=flat-square&logo=github&labelColor=0D1117&link=https%3A%2F%2Fhye0n0.github.io%2F)
 
 <!--
 **hye0n0/hye0n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
