@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye0n0&layout=compact)
 
-[![Static Badge](https://img.shields.io/badge/blog-https://hye0n0.github.io/?logo=github&labelColor=0D1117&color=white&cacheSeconds=sd&link=https%3A%2F%2Fhye0n0.github.io%2F)
+[![Static Badge](https://img.shields.io/badge/blog-https://hye0n0.github.io/?labelColor=0D1117&color=white&cacheSeconds=sd&link=https%3A%2F%2Fhye0n0.github.io%2F)
 ](https://hye0n0.github.io/)
 
 <!--
