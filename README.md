@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye0n0&show_icons=true&theme=holi&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye0n0&show_icons=true&theme=github_dark&hide_rank=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye0n0&layout=compact)
 
